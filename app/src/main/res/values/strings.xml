@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="minimum_password">Password should not be less than six characters</string>
+    <string name="auth_success">Login Successful</string>
+</resources>
